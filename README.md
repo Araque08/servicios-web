@@ -1,4 +1,4 @@
-# Servicios Web · Sebastián Araque
+# SEFECODE · Servicios Web
 
 Página de presentación de servicios de desarrollo web (restaurantes, tiendas, tiendas virtuales y agendamiento de citas) con contacto directo por WhatsApp.
 
